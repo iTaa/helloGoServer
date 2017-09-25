@@ -1,1 +1,1 @@
-sh /root/app/helloGoServe
+sh -c /root/app/helloGoServe
